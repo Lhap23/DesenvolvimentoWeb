@@ -1,0 +1,13 @@
+GitHub: https://rogerdudler.github.io/git-guide/index.pt_BR.html
+GitHub é uma plataforma baseada em nuvem para hospedar repositórios Git, permitindo colaboração e gerenciamento de projetos.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Firefox: https://developer.mozilla.org/pt-BR/docs/Web
+Firefox, Edge e Google Chrome são navegadores da web populares usados para acessar e interagir com páginas da web, cada um com suas características e funcionalidades específicas.
+Edge: https://learn.microsoft.com/en-us/microsoft-edge/
+Chrome: https://developer.chrome.com/docs/
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Vscode:https://code.visualstudio.com/docs
+O VSCode é um editor de código-fonte altamente personalizável e eficiente desenvolvido pela Microsoft, usado para programação em várias linguagens e com suporte a extensões.
+
+Python:https://www.python.org/about/gettingstarted/
+Python é uma linguagem de programação versátil e de fácil leitura, amplamente usada para desenvolvimento web, automação, análise de dados e mais.
